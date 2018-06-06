@@ -1,0 +1,104 @@
+{
+    "docs": [
+        {
+            "location": "/insan/product_category/", 
+            "text": "Product Category\n\n\nProduct Category\n untuk membantu user meng-kategori \nproduct (Insan)\n.\n\n\nMenu\n\n\n\n\nInsan \n Product \n Product Category\n\n\n\n\nContoh menu bisa lihat di gambar bawah ini:\n\n\n\n\n1) Membuat Product Category\n\n\n\n\nTekan \nCreate\n\n\n\n\n\n\n\n\nMasukan detail \"Product Category\" ke field yang ada sesuai gambar di bawah.\n\n\n\n\n\n\n\n\n\n\n\n\nFields\n\n\nRequired\n\n\nDescriptions\n\n\nDefault\n\n\n\n\n\n\n\n\n\n\nName\n\n\nYes\n\n\nNama untuk kategori\n\n\n\n\n\n\n\n\nParent Category\n\n\nNo\n\n\nBapak kategori\n\n\n\n\n\n\n\n\nActive\n\n\nNo\n\n\nTanda apakah kategori ini aktif\n\n\nCheck\n\n\n\n\n\n\nColor\n\n\nYes\n\n\nMengasih warna untuk kategori\n\n\nGrey Blue\n\n\n\n\n\n\n\n\n2) Tree View\n\n\nDi \nTree View\n user bisa melakukan \nSearch, Export, dan bebegai fungsi\nbersifat laporan\n\n\n\n\n2.1) Search\n\n\n\n\nField yang dapat di search:\n\n\n\n\nName", 
+            "title": "Product Category"
+        }, 
+        {
+            "location": "/insan/product_category/#product-category", 
+            "text": "Product Category  untuk membantu user meng-kategori  product (Insan) .", 
+            "title": "Product Category"
+        }, 
+        {
+            "location": "/insan/product_category/#menu", 
+            "text": "Insan   Product   Product Category   Contoh menu bisa lihat di gambar bawah ini:", 
+            "title": "Menu"
+        }, 
+        {
+            "location": "/insan/product_category/#1-membuat-product-category", 
+            "text": "Tekan  Create     Masukan detail \"Product Category\" ke field yang ada sesuai gambar di bawah.       Fields  Required  Descriptions  Default      Name  Yes  Nama untuk kategori     Parent Category  No  Bapak kategori     Active  No  Tanda apakah kategori ini aktif  Check    Color  Yes  Mengasih warna untuk kategori  Grey Blue", 
+            "title": "1) Membuat Product Category"
+        }, 
+        {
+            "location": "/insan/product_category/#2-tree-view", 
+            "text": "Di  Tree View  user bisa melakukan  Search, Export, dan bebegai fungsi\nbersifat laporan", 
+            "title": "2) Tree View"
+        }, 
+        {
+            "location": "/insan/product_category/#21-search", 
+            "text": "Field yang dapat di search:   Name", 
+            "title": "2.1) Search"
+        }, 
+        {
+            "location": "/insan/product/", 
+            "text": "Product\n\n\nMenu\n\n\n\n\nInsan \n Product \n Product\n\n\n\n\nContoh menu bisa lihat di gambar bawah ini:\n\n\n\n\n1) Membuat Product\n\n\n\n\nTekan \nCreate\n\n\n\n\n\n\n\n\nMasukan detail \"Product\" ke field yang ada sesuai gambar di bawah.\n\n\n\n\n\n\n\n\n\n\n\n\nFields\n\n\nRequired\n\n\nDescriptions\n\n\nDefault\n\n\n\n\n\n\n\n\n\n\nName\n\n\nYes\n\n\nNama untuk kategori\n\n\n\n\n\n\n\n\nProduct\n\n\nYes\n\n\nNama untuk kategori\n\n\n\n\n\n\n\n\nCategories\n\n\nNo\n\n\nKategory. Satu product bisa beberapa category\n\n\n\n\n\n\n\n\nCost Setting\n\n\n\n\n\n\n\n\n\n\n\n\nUnit Price(Yen)\n\n\nNo\n\n\nHarga dalam mata uang \"Yen\"\n\n\n\n\n\n\n\n\nUnit Price(Rp)\n\n\nYes\n\n\nHarga dalam mata uang \"Rupiah\"\n\n\n\n\n\n\n\n\nCapacity\n\n\nYes\n\n\nQuantity dalam satuan terkecil\n\n\n\n\n\n\n\n\nUnit of Measure\n\n\nYes\n\n\nSatuan\n\n\n\n\n\n\n\n\nYield\n\n\nYes\n\n\nPercentage penyusutan\n\n\nGrey Blue\n\n\n\n\n\n\nCost Calculated\n\n\n\n\n\n\n\n\n\n\n\n\n@Price\n\n\n-\n\n\nHarga satuan. Auto hitung oleh system dengan formula \nUnit Price(Rp) / Capacity\n\n\nGrey Blue\n\n\n\n\n\n\nYield After Price\n\n\n-\n\n\nHarga satuan setelah penyusutan. \n@Price - Yield (%)\n\n\n\n\n\n\n\n\nCost Calculated\n\n\n\n\n\n\n\n\n\n\n\n\nEnglish\n\n\nNo\n\n\nNama dalam bahasa English\n\n\n\n\n\n\n\n\nJapanese\n\n\nNo\n\n\nNama dalam bahasa Japan", 
+            "title": "Product"
+        }, 
+        {
+            "location": "/insan/product/#product", 
+            "text": "", 
+            "title": "Product"
+        }, 
+        {
+            "location": "/insan/product/#menu", 
+            "text": "Insan   Product   Product   Contoh menu bisa lihat di gambar bawah ini:", 
+            "title": "Menu"
+        }, 
+        {
+            "location": "/insan/product/#1-membuat-product", 
+            "text": "Tekan  Create     Masukan detail \"Product\" ke field yang ada sesuai gambar di bawah.       Fields  Required  Descriptions  Default      Name  Yes  Nama untuk kategori     Product  Yes  Nama untuk kategori     Categories  No  Kategory. Satu product bisa beberapa category     Cost Setting       Unit Price(Yen)  No  Harga dalam mata uang \"Yen\"     Unit Price(Rp)  Yes  Harga dalam mata uang \"Rupiah\"     Capacity  Yes  Quantity dalam satuan terkecil     Unit of Measure  Yes  Satuan     Yield  Yes  Percentage penyusutan  Grey Blue    Cost Calculated       @Price  -  Harga satuan. Auto hitung oleh system dengan formula  Unit Price(Rp) / Capacity  Grey Blue    Yield After Price  -  Harga satuan setelah penyusutan.  @Price - Yield (%)     Cost Calculated       English  No  Nama dalam bahasa English     Japanese  No  Nama dalam bahasa Japan", 
+            "title": "1) Membuat Product"
+        }, 
+        {
+            "location": "/insan/bom_category/", 
+            "text": "BOM Category\n\n\nBOM Category\n untuk membantu user meng-kategori \nBOM\n.\n\n\nMenu\n\n\n\n\nInsan \n Bill of Material (s) \n BOM Category\n\n\n\n\nContoh menu bisa lihat di gambar bawah ini:\n\n\n\n\n1) Membuat BOM Category\n\n\n\n\nTekan \nCreate\n\n\n\n\n\n\n\n\nMasukan detail \"BOM Categories\" ke field yang ada sesuai gambar di bawah.\n\n\n\n\n\n\n\n\n\n\n\n\nFields\n\n\nRequired\n\n\nDescriptions\n\n\nDefault\n\n\n\n\n\n\n\n\n\n\nName\n\n\nYes\n\n\nNama untuk kategori\n\n\n\n\n\n\n\n\nParent Category\n\n\nNo\n\n\nBapak kategori\n\n\n\n\n\n\n\n\nActive\n\n\nNo\n\n\nTanda apakah kategori ini aktif\n\n\nCheck\n\n\n\n\n\n\nColor\n\n\nYes\n\n\nMengasih warna untuk kategori\n\n\nGrey Blue\n\n\n\n\n\n\n\n\n2) Tree View\n\n\nDi \nTree View\n user bisa melakukan \nSearch, Export, dan bebegai fungsi\nbersifat laporan\n\n\n\n\n2.1) Search\n\n\n\n\nField yang dapat di search:\n\n\n\n\nName", 
+            "title": "BOM Category"
+        }, 
+        {
+            "location": "/insan/bom_category/#bom-category", 
+            "text": "BOM Category  untuk membantu user meng-kategori  BOM .", 
+            "title": "BOM Category"
+        }, 
+        {
+            "location": "/insan/bom_category/#menu", 
+            "text": "Insan   Bill of Material (s)   BOM Category   Contoh menu bisa lihat di gambar bawah ini:", 
+            "title": "Menu"
+        }, 
+        {
+            "location": "/insan/bom_category/#1-membuat-bom-category", 
+            "text": "Tekan  Create     Masukan detail \"BOM Categories\" ke field yang ada sesuai gambar di bawah.       Fields  Required  Descriptions  Default      Name  Yes  Nama untuk kategori     Parent Category  No  Bapak kategori     Active  No  Tanda apakah kategori ini aktif  Check    Color  Yes  Mengasih warna untuk kategori  Grey Blue", 
+            "title": "1) Membuat BOM Category"
+        }, 
+        {
+            "location": "/insan/bom_category/#2-tree-view", 
+            "text": "Di  Tree View  user bisa melakukan  Search, Export, dan bebegai fungsi\nbersifat laporan", 
+            "title": "2) Tree View"
+        }, 
+        {
+            "location": "/insan/bom_category/#21-search", 
+            "text": "Field yang dapat di search:   Name", 
+            "title": "2.1) Search"
+        }, 
+        {
+            "location": "/insan/bom/", 
+            "text": "BOM\n\n\nBOM (Bill of Material) untuk membuat \"Menu Resto\".\nSatu BOM terdiri dari beberapa \nProduct\n dan cost \nProduct\n di hitung bersama menjadi cost BOM.\n\n\nMenu\n\n\n\n\nInsan \n Bill of Material (s) \n BOM\n\n\n\n\nContoh menu bisa lihat di gambar bawah ini:\n\n\n\n\n1) Membuat BOM\n\n\n\n\nTekan \nCreate\n\n\n\n\n\n\n\n\nMasukan detail \"BOM\" ke field yang ada sesuai gambar di bawah.\n\n\n\n\n\n\n\n\n\n\n\n\nFields\n\n\nRequired\n\n\nDescriptions\n\n\nDefault\n\n\n\n\n\n\n\n\n\n\nName\n\n\nYes\n\n\nNama untuk kategori\n\n\n\n\n\n\n\n\nCategories\n\n\nNo\n\n\nKategory. Satu BOM bisa beberapa category\n\n\n\n\n\n\n\n\nSelling Price\n\n\nNo\n\n\n\n\n\n\n\n\n\n\nCost Rate\n\n\n-\n\n\nSystem kalkulasi ` 1 + ((sum(Sub Total) - Selling Price) / Selling Price) * 100\n\n\n\n\n\n\n\n\nMaterial List\n\n\n\n\n\n\n\n\n\n\n\n\nProduct\n\n\nYes\n\n\n\n\n\n\n\n\n\n\n@Price\n\n\n-\n\n\nAuto isi setelah \nProduct\n di pilih. Field \nAfter Yield Price\n\n\n\n\n\n\n\n\nUnit\n\n\n-\n\n\nAuto isi setelah \nProduct\n di pilih. Field \nUnit of Measure\n\n\n\n\n\n\n\n\nAmount Using\n\n\nYes\n\n\nQuantity yang di pakai untuk produksi BOM\n\n\n\n\n\n\n\n\nSub Total\n\n\n-\n\n\nAuto kalkulasi system. \nAmount Using x @Price", 
+            "title": "BOM"
+        }, 
+        {
+            "location": "/insan/bom/#bom", 
+            "text": "BOM (Bill of Material) untuk membuat \"Menu Resto\".\nSatu BOM terdiri dari beberapa  Product  dan cost  Product  di hitung bersama menjadi cost BOM.", 
+            "title": "BOM"
+        }, 
+        {
+            "location": "/insan/bom/#menu", 
+            "text": "Insan   Bill of Material (s)   BOM   Contoh menu bisa lihat di gambar bawah ini:", 
+            "title": "Menu"
+        }, 
+        {
+            "location": "/insan/bom/#1-membuat-bom", 
+            "text": "Tekan  Create     Masukan detail \"BOM\" ke field yang ada sesuai gambar di bawah.       Fields  Required  Descriptions  Default      Name  Yes  Nama untuk kategori     Categories  No  Kategory. Satu BOM bisa beberapa category     Selling Price  No      Cost Rate  -  System kalkulasi ` 1 + ((sum(Sub Total) - Selling Price) / Selling Price) * 100     Material List       Product  Yes      @Price  -  Auto isi setelah  Product  di pilih. Field  After Yield Price     Unit  -  Auto isi setelah  Product  di pilih. Field  Unit of Measure     Amount Using  Yes  Quantity yang di pakai untuk produksi BOM     Sub Total  -  Auto kalkulasi system.  Amount Using x @Price", 
+            "title": "1) Membuat BOM"
+        }
+    ]
+}

@@ -1,6 +1,11 @@
 {
     "docs": [
         {
+            "location": "/", 
+            "text": "", 
+            "title": "Home"
+        }, 
+        {
             "location": "/insan/product_category/", 
             "text": "Product Category\n\n\nProduct Category\n untuk membantu user meng-kategori \nproduct (Insan)\n.\n\n\nMenu\n\n\n\n\nInsan \n Product \n Product Category\n\n\n\n\nContoh menu bisa lihat di gambar bawah ini:\n\n\n\n\n1) Membuat Product Category\n\n\n\n\nTekan \nCreate\n\n\n\n\n\n\n\n\nMasukan detail \"Product Category\" ke field yang ada sesuai gambar di bawah.\n\n\n\n\n\n\n\n\n\n\n\n\nFields\n\n\nRequired\n\n\nDescriptions\n\n\nDefault\n\n\n\n\n\n\n\n\n\n\nName\n\n\nYes\n\n\nNama untuk kategori\n\n\n\n\n\n\n\n\nParent Category\n\n\nNo\n\n\nBapak kategori\n\n\n\n\n\n\n\n\nActive\n\n\nNo\n\n\nTanda apakah kategori ini aktif\n\n\nCheck\n\n\n\n\n\n\nColor\n\n\nYes\n\n\nMengasih warna untuk kategori\n\n\nGrey Blue\n\n\n\n\n\n\n\n\n2) Tree View\n\n\nDi \nTree View\n user bisa melakukan \nSearch, Export, dan bebegai fungsi\nbersifat laporan\n\n\n\n\n2.1) Search\n\n\n\n\nField yang dapat di search:\n\n\n\n\nName", 
             "title": "Product Category"

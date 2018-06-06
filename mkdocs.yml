@@ -1,0 +1,10 @@
+site_name: PT Ruangan Pedingin Indonesia
+theme: 
+    name: material
+pages:
+    - Odoo: 
+        - 'Insan':
+            - 'Product Category': 'insan/product_category.md'
+            - 'Product': 'insan/product.md'
+            - 'BOM Category': 'insan/bom_category.md'
+            - 'BOM': 'insan/bom.md'

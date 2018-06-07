@@ -1,57 +1,9 @@
-# Insan
-## Product Category
+# **Insan**
+### Cara Memakai Cost Calculation untuk module ` Insan `
 
-![Product Category Menu](img/product_category_menu.png)
-
->  Insan > Product > Product Category
-
-
-### Description
-"Product Category" is use to category the product in menu Insan.
-
-![Product Category](img/product_category_edit.jpg)
-
-### Fields
-|Fields|Descriptions|
-|------|------------|
-|Name|Nama untuk kategori|
-|Parent Category|Bapak kategori|
-|Active|Tanda apakah kategori ini aktif|
-|Color|Mengasih warna untuk kategori|
+1. Menentukan berapa [Product Category](insan/product_category.md) dan membuatnya
+2. Membuat [Product](insan/product.md)
+3. Menentukan [BOM Category](insan/bom_category.md)
+4. Buatkan [BOM](insan/bom.md) (Bill of Material)
 
 
-* Main
-
-## Product
-## BOM Category
-## BOM 
-
-* Product
-* Product Category
-* BOM
-* BOM Category
-
-
-
-    
-# ERP
-
-For full documentation visit [mkdocs.org](http://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-# KKKKKK
-
-    asdasd.yml    # The configuration file.

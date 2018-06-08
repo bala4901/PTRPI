@@ -1,4 +1,7 @@
 # **Insan**
+
+![Module Insan](img/module_insan.png)
+
 ### Cara Memakai Cost Calculation untuk module ` Insan `
 
 1. Menentukan berapa [Product Category](insan/product_category.md) dan membuatnya

@@ -2,8 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "", 
+            "text": "Insan\n\n\nCara Memakai Cost Calculation untuk module \nInsan\n\n\n\n\nMenentukan berapa \nProduct Category\n dan membuatnya\n\n\nMembuat \nProduct\n\n\nMenentukan \nBOM Category\n\n\nBuatkan \nBOM\n (Bill of Material)", 
             "title": "Home"
+        }, 
+        {
+            "location": "/#insan", 
+            "text": "", 
+            "title": "Insan"
+        }, 
+        {
+            "location": "/#cara-memakai-cost-calculation-untuk-module-insan", 
+            "text": "Menentukan berapa  Product Category  dan membuatnya  Membuat  Product  Menentukan  BOM Category  Buatkan  BOM  (Bill of Material)", 
+            "title": "Cara Memakai Cost Calculation untuk module Insan"
         }, 
         {
             "location": "/insan/product_category/", 
